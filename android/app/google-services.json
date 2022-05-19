@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244040061276",
+    "project_id": "anuj-tv",
+    "storage_bucket": "anuj-tv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244040061276:android:7a925b50ab455c9da57199",
+        "android_client_info": {
+          "package_name": "anuj.tv90"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244040061276-51fp21376kmpvjh9r9i52o5imk2l3aq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDD_iw-nL1FcXKNws8udmOuxLc-7dUTD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244040061276-51fp21376kmpvjh9r9i52o5imk2l3aq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
