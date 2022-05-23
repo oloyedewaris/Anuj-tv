@@ -64,7 +64,6 @@ export const registerYodoAds = () => {
 export const showBannerAds = async () => {
   //const adsAvailable = await Yodo1MASAds.isInitialized()
   //adsAvailable &&
-  console.log(Yodo1MASAds)
   Yodo1MASAds.showBannerAds()
 }
 

@@ -1,8 +1,6 @@
 import React, { useEffect } from 'react';
 import { View, Button } from 'react-native'
 import { registerYodoAds, showBannerAds, dismissBannerAds, showInterstitialAds, showRewardedAds } from './adFunctions';
-import { NativeModules } from 'react-native';
-const { Yodo1MASAds } = NativeModules;
 
 const App = () => {
   useEffect(() => {
