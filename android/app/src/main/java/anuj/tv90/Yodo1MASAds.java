@@ -22,7 +22,7 @@ public class Yodo1MASAds extends ReactContextBaseJavaModule {
     //Call Delegate Function before Init Sdk:
     intiDelagates();
     Yodo1Mas.getInstance().init(
-      Yodo1MASAds.this.getCurrentActivity(), "b4cf3d31-476a-4bfc-817f-e509c0df7a4a", new Yodo1Mas.InitListener() {
+      Yodo1MASAds.this.getCurrentActivity(), "mwNelcjUkc", new Yodo1Mas.InitListener() {
         @Override
         public void onMasInitSuccessful() {}
         @Override

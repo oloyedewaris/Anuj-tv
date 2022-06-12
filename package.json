@@ -10,11 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@react-native-firebase/admob": "^11.5.0",
-    "@react-native-firebase/app": "^11.5.0",
     "react": "17.0.1",
     "react-native": "0.64.2",
-    "react-native-splash-screen": "^3.3.0",
     "react-native-webview": "^11.17.2"
   },
   "devDependencies": {
