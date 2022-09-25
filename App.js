@@ -12,7 +12,7 @@ const App = () => {
     <WebView
       pullToRefreshEnabled
       onError={err=> console.log(err)}
-      source={{ uri: 'https://reactnative.dev' }}
+      source={{ uri: 'https://teledhamaka.in' }}
       onLoad={() => showBannerAds()}
       onNavigationStateChange={navState => {
         if (navState.canGoBack) {
